@@ -40,7 +40,7 @@ To use **push_swap**, follow these steps:
    ```bash
    ./checker ["numbers"]
 
-Type stack operation and press `CTRL+D to stop
+Type stack operation and press `CTRL+D` to stop
 
 ## License
 
